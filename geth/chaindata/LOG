@@ -1,8 +1,8 @@
 =============== Jul 5, 2021 (WIB) ===============
-08:36:54.040724 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-08:36:54.148961 db@open opening
-08:36:54.155273 version@stat F·[] S·0B[] Sc·[]
-08:36:54.160510 db@janitor F·2 G·0
-08:36:54.160543 db@open done T·11.52048ms
-08:36:54.168864 db@close closing
-08:36:54.168896 db@close done T·31.175µs
+09:59:23.828989 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:59:23.838231 db@open opening
+09:59:23.838648 version@stat F·[] S·0B[] Sc·[]
+09:59:23.841191 db@janitor F·2 G·0
+09:59:23.841213 db@open done T·2.963576ms
+09:59:23.848808 db@close closing
+09:59:23.848842 db@close done T·34.16µs
