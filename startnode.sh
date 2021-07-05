@@ -1,0 +1,1 @@
+geth --networkid 4444 --mine --minerthreads 2 --datadir "." --nodiscover --rpc --rpcport "8545" --rpcaddr "192.168.1.9" --port "30303" --rpccorsdomain "*" --nat "any" --rpcapi eth,web3,personal,net --unlock 0x6A310828F788Ab7bB0F2543FDDC2398384175740 --password ./password.sec --ipcpath "~/.ethereum/geth.ipc" --allow-insecure-unlock --nousb
